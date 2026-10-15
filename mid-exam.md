@@ -1,8 +1,9 @@
 # Mid-Exam - Cafe Cashier Program
 
-Name: Raul
-No.: 25
-NIM: 264107020258
+- **Name:** Raul Ibrahim Hernov
+- **NIM:** 264107020258
+- **Class:** TI_1I
+
 
 ## 1. Problem Description
 
