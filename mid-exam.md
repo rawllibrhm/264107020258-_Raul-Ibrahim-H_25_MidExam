@@ -1,8 +1,8 @@
-# Mid-Exam - Question 1: Cafe Cashier Program
+# Mid-Exam - Cafe Cashier Program
 
 Name: Raul
-Attendance No.: 25
-NIM: (isi NIM)
+No.: 25
+NIM: 264107020258
 
 ## 1. Problem Description
 
